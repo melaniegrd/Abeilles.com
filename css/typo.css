@@ -1,0 +1,32 @@
+body {
+    font-family: 'corporate E Pro', sans-serif;
+    font-weight: 400;
+    line-height: 1.2;
+    color:#4A6CDF;
+  }
+
+header{
+  color:#4A6CDF;
+  text-align:left;
+  font-size: 200%;
+  padding: 40px;
+}
+
+h1{
+  font-size: 200%;
+  margin-top: 0;
+  }
+
+h2{
+  font-size: 150%;
+  margin-top: 0;
+
+}
+
+p{
+  font-size: 25px;
+}
+
+ul{
+  font-size: 25px;
+}
