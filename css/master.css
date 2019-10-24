@@ -17,9 +17,14 @@ header{
 }
 
 .headerimg{
- width: 175px;
- float: left;
+ width: 180px;
  z-index: 0;
+}
+
+#header{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 div.text{
